@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "706369014649",
+    "firebase_url": "https://covid19-af1f3.firebaseio.com",
+    "project_id": "covid19-af1f3",
+    "storage_bucket": "covid19-af1f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706369014649:android:7e0ba9935de3cc57f5bda8",
+        "android_client_info": {
+          "package_name": "com.bjofficial.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706369014649-767r0uhdmdbmsia0lt5a4k2oec77np4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bjofficial.covid19",
+            "certificate_hash": "9672e2e13d121dd671f92c049e2eca5699d1f79c"
+          }
+        },
+        {
+          "client_id": "706369014649-f1irkehlcs9bklm654f01lad1944s7i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDABMbU145GPjQ1BnIFj6lHifuQNQYIpsk"
+        }
+      ],
+      "services": {
+        "admob_app_id": "ca-app-pub-9474181461181417~8336870697",
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706369014649-f1irkehlcs9bklm654f01lad1944s7i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
