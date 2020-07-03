@@ -3,10 +3,10 @@
 A new Flutter application.
 
 
-![Screenshot_2020-06-29-15-43-35-749_com bjofficial covid19](https://user-images.githubusercontent.com/50042488/86475801-f5698780-bd62-11ea-8995-b7aa12703ccf.png)
-![Screenshot_2020-06-29-15-43-44-312_com bjofficial covid19](https://user-images.githubusercontent.com/50042488/86475806-f69ab480-bd62-11ea-8566-e848c5209e8d.png)
-![Screenshot_2020-06-29-15-43-15-290_com bjofficial covid19](https://user-images.githubusercontent.com/50042488/86475810-f7334b00-bd62-11ea-8c7f-589877021807.png)
-![Screenshot_2020-06-29-15-43-31-653_com bjofficial covid19](https://user-images.githubusercontent.com/50042488/86475811-f7cbe180-bd62-11ea-85e1-26e2872f4ab8.png)
+![Screenshot_2020-06-29-15-43-35-749_com bjofficial covid19](https://user-images.githubusercontent.com/50042488/86475953-3792c900-bd63-11ea-8ed9-87915e917bf3.png)
+![Screenshot_2020-06-29-15-43-44-312_com bjofficial covid19](https://user-images.githubusercontent.com/50042488/86475957-39f52300-bd63-11ea-8e26-213543a1b4f7.png)
+![Screenshot_2020-06-29-15-43-15-290_com bjofficial covid19](https://user-images.githubusercontent.com/50042488/86475960-3a8db980-bd63-11ea-8cf1-629adc40c6a6.png)
+![Screenshot_2020-06-29-15-43-31-653_com bjofficial covid19](https://user-images.githubusercontent.com/50042488/86475962-3b265000-bd63-11ea-86ec-27735c01589d.png)
 
 ## Getting Started
 
